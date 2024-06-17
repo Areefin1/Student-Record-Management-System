@@ -9,7 +9,7 @@ Implemented key features enabling users to:
 ## How to use it:
 
 1. First download all the necessary files.
-2. Run/execute tester.java file in your code editor.
+2. Run/execute the tester.java file in your code editor.
 3. When prompted to enter a file name, simply enter the text file provided: student.txt
 
 Enjoy.
